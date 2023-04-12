@@ -7,10 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio0101&layout=compact&langs_count=7&theme=dark"/>
     </div>
   
-   ##
-  
   ## Um pouco sobre mim
-
 **Sou desenvolvedor Front-End, Atualmente estou graduando Ciências da Computação pela Universidade do Estado do Rio Grande do Norte e fazendo o curso Ignite da Rocketseat. Hoje, meu foco é dominar as principais linguagem de programação do mercado voltada para Front-End.<br>
 
 Minha primeira formação foi na área da construção civil, curso tecnico em Edificações, onde acabei me especializando em desenhos 3D e renderizações realistas de interiores, com experiência profissional. Ainda fiz cursos de design onde aprendi a utilizar ferramentas da Adobe como Adobe Photoshop, Ilustrator, Adobe XD e também aprendi a usar o Figma.

@@ -7,7 +7,7 @@
 
 <img src="https://github.com/Fabricio0101/Fabricio0101/assets/94193822/728dea49-cc3b-4e19-a9c9-2abc73cf2590" width="100%" height="8px" style="max-width: 100%;" />
   
-  ### Linguagens
+  ### Ferramentas
   
 </div>
 <div style="display: inline_block"><br>

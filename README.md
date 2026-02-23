@@ -86,12 +86,13 @@ Technical leadership, system architecture and product strategy.
 
 ## GitHub Stats
 
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabricio0101&theme=github_dark" 
-  alt="GitHub Stats" 
-/>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabricio0101&theme=github_dark" 
-  alt="Top Languages" 
-/>
+<div align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabricio0101&theme=github_dark" 
+    height="170"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fabricio0101&theme=github_dark" 
+    height="170"
+  />
+</div>
